@@ -1,21 +1,21 @@
 ## Client Server Model for multiplayer Tic-Tac-Toe Game in Local Area Network ##
 
-#### Step-1: ####
-> Start Server
+Step-1:
+> mulai server
 
-> Run TicTacToeServer.java
+> jalankan file TicTacToeServer.java
 
-#### Step-2: ####
-> Start Client for player-1
+Step-2:
+> mulai Client untuk player-1
 
-> Run TicTacToeCleint.java
+> dengan menjalankan TicTacToeCleint.java
 
-#### Step-3: ####
-> Start Client for player-2
+Step-3:
+> mulai Client for player-2
 
-> Run TicTacToeCleint.java
+> dengan menjalankan TicTacToeCleint.java yang kedua kalinya
 
-#### Step-4 ####
-> Enjoy
+Step-4 :
+> Selamat Bermain!
 
 
